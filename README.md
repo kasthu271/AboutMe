@@ -1,5 +1,12 @@
+- 👋 Hi, I’m Kasthuri Padarthi
+- 👀 I’m interested in  
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me padarthikasthuri@gmail.com
+
+
 # AboutMe
-This repository contains details about Me
+<h1>This repository contains details about Me</h1>
 
 
 
